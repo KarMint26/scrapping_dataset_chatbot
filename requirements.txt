@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+fpdf
+googlesearch-python
+pdfminer.six
